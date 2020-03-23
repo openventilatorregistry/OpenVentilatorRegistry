@@ -24,6 +24,15 @@ We have registered the domain www.openventilatorregistry.org and will deploy the
 You can start by requesting to join this organization and detailing what skills you have that we can use. You can also star this repository to raise its profile.  We will also need to 
 spread the word to hospitals and other public health officials that this project is available for their use.
 
+### Central Communication Channel
+
+There have been a number of communication channels set up and we may end up using those for individual teams, but for now let's centralize around the one below and we can break out later.
+
+https://join.slack.com/t/ovr-project/shared_invite/zt-d0qld5rq-RDeKgJPyIALLeiwW05fNZA
+
+### Teams
+There are two teams: UI and Backend.  Each team has its own section within this organization.  Each team can create repos and manage their projects.
+
 ### Tech Stack
 
 The founders of this project have experience with .NET Core, and development of the backend is starting with that tech stack because
