@@ -1,0 +1,20 @@
+
+//$primary-color: #00FF00;//getColor($type: currentIndicator, $backgroundType: light);
+//$accent-color: #FF0000;//getColor($type: radioAndCheckbox, $subType: checked, $backgroundType: light);
+//$icon-color: #0000ff;//getColor($type: icon, $subType: active, $backgroundType: light);
+
+// $foreground-color: rgba(#fff, 0.87);
+// $secondary-foreground-color:  rgba(#fff, 0.54);
+// $header-foreground-color: rgba(#fff, 0.87);
+// $background-color: transparent;
+// $hover-color: rgba(#fff, .075);
+// $selected-color: rgba(#fff, .2);
+// $icon-color: rgba(#fff, 0.87);
+// $accent-color: #03DAC6;
+// $border-color: rgba(#fff, .2);
+
+//$font-size: 18px;
+
+@import "../../../../node_modules/ag-grid-community/src/styles/ag-grid.scss";
+//@import "../../../../node_modules/ag-grid-community/src/styles/ag-theme-balham-dark/sass/ag-theme-balham-dark.scss";
+@import "../../../../node_modules/ag-grid-community/src/styles/ag-theme-material/sass/ag-theme-material.scss";

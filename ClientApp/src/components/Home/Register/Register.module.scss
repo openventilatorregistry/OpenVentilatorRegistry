@@ -1,0 +1,55 @@
+@media only screen and (min-width: 800px) {
+    .card {
+    position: absolute;
+    height: calc(100vh - 184px);
+    width: calc(100vw - 120px);
+    top: 124px;
+    left: 60px;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+    .card {
+        height: calc(100vh - 64px);
+        width: calc(100vw);
+  }
+}
+
+.card {
+    overflow-y: scroll !important;
+}
+  
+
+.inputsContainer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 48px;
+}
+
+.input {
+    width: 300px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.button {
+    width: 250px;
+    margin: 24px;
+}
+
+.buttonArea {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+
+.instructions {
+    font-size: 14px;
+    margin-left: 16px;
+}
