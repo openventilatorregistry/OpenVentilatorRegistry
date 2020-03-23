@@ -1,0 +1,22 @@
+.card.centerCard{
+    width:33vw;
+    height:60%;
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    align-items:center;
+    text-transform: uppercase;
+    padding-bottom: 1%;
+}
+.card-body{
+    font-weight: 200;
+    font-size: 2rem;
+}
+.card-body strong{
+    font-weight: 600;
+}
+.btn{
+    width:90%;
+    margin:2%;
+    border-radius: 15px !important;
+}
