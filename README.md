@@ -11,7 +11,7 @@ We have registered the domain www.openventilatorregistry.org and will deploy the
 
 ### What We Need:
 
-*UI Developers*
+*UI/UX Developers and Designers*
 
 *API Developers*
 
