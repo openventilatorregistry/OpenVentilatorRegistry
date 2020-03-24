@@ -37,7 +37,7 @@ This project includes:
 &nbsp;
 
 1. [Install](#1-install)
-2. [Development](#3-development)
+2. [Development](#2-development)
 
 &nbsp;
 
