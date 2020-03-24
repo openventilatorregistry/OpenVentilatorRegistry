@@ -35,9 +35,7 @@ There are two teams: UI and Backend.  Each team has its own section within this 
 
 ### Tech Stack
 
-The founders of this project have experience with .NET Core, and development of the backend is starting with that tech stack because
-that is how we can be most productive.  The frontend, hosting and much more is still TBD, and over time we expect there to be several components that 
-can be developed using various technologies.
+We're open to whatever technologies will make us most effective.
 
 ### Attitude
 
