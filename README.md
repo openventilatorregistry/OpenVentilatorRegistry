@@ -9,20 +9,9 @@ distribution network of these life saving devices.
 
 We have registered the domain www.openventilatorregistry.org and will deploy the web application there when it is ready.
 
-### What We Need:
-
-*UI/UX Developers and Designers*
-
-*API Developers*
-
-*Database Developers*
-
-*Registry of hospitals and their addresses, web domains*
-
 ### How to Help
 
-You can start by requesting to join this organization and detailing what skills you have that we can use. You can also star this repository to raise its profile.  We will also need to 
-spread the word to hospitals and other public health officials that this project is available for their use.
+Join our Slack channel to meet others interested in helping and learn about what's currently being worked on.  Look at the open issues, create your own if you have an idea, submit pull requests to the right projects.
 
 ### Central Communication Channel
 
