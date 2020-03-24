@@ -3,9 +3,7 @@ The Open Ventilator Registry project is answering [the call](https://www.nytimes
 in order to facilitate their distribution during the COVID19 pandemic.  Even with a ramp up in ventilator production, there is still the significant problem 
 of their efficient distribution.  
 
-The Open Ventilator Registry is calling on software engineers to help build a platform for hospitals to report on their stock of ventilators and if they have a surplus
-or deficit.  Hospitals with a surplus can then send their supply to hospitals in greatest need.  We aim to create a nimble and decentralized supply chain and 
-distribution network of these life saving devices.
+The Open Ventilator Registry is calling on software engineers, UX designers, doctors, hospital staff and medical equipment manufacturers to help build a platform for hospitals to overcome the critical shortage of ventilators.  We aim to create a nimble and decentralized supply chain and distribution network of these life saving devices.
 
 We have registered the domain www.openventilatorregistry.org and will deploy the web application there when it is ready.
 
