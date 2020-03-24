@@ -26,6 +26,37 @@ There are two teams: UI and Backend.  Each team has its own section within this 
 
 We're open to whatever technologies will make us most effective.
 
+This project includes:
+
+- **A serverless monolithic backend** - powered by a single AWS Lambda function and a single AWS API Gateway endpoint, which sends all requests to the function, enabling you to do routing and logic all in your code.
+
+- **A serverless website with a React application\*** - powered by AWS S3, AWS Cloudfront, AWS Route 53 and an AWS ACM SSL Certificate. The backend API endpoint is already passed into the front-end, and the React application is already configured to use it.
+
+- **An on-demand AWS DynamoDB auto-scaling table** - powered by AWS DynamoDB (shocker!).
+
+&nbsp;
+
+1. [Install](#1-install)
+2. [Development](#3-development)
+
+&nbsp;
+
+### 1. Install
+
+Install the NPM dependencies in the front-end `dashboard` directory:
+
+```console
+$ npm i
+```
+
+### 2. Development
+
+You are be able to run the front-end locally and have it communicate to the live back-end, in the cloud.
+
+```console
+$ npm run start
+```
+
 ### Attitude
 
 Time is of the essence.  Many projects get bogged down with disagreements over technologies, coding style, frameworks,
