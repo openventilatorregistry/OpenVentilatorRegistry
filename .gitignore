@@ -348,3 +348,9 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Serverless Framework
+.serverless
+.serverless_nextjs
+.serverless_plugins
+.serverlessUnzipped
