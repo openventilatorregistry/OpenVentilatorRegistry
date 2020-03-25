@@ -13,9 +13,9 @@ Join our Slack channel to meet others interested in helping and learn about what
 
 ### Central Communication Channel
 
-There have been a number of communication channels set up and we may end up using those for individual teams, but for now let's centralize around the one below and we can break out later.
+There is a central communication Slack workspace for this project.
 
-https://join.slack.com/t/ovr-project/shared_invite/zt-d0qld5rq-RDeKgJPyIALLeiwW05fNZA
+Please reach out if you are looking to get involved!
 
 ### Teams
 There are two teams: UI and Backend.  Each team has its own section within this organization.  Each team can create repos and manage their projects.
