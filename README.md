@@ -17,6 +17,12 @@ There is a central communication Slack workspace for this project.
 
 Please reach out if you are looking to get involved!
 
+#### Who and what we're currently looking for
+
+| Domain Experts | Product Managers | Designers |
+| --------- | -------- | ---------- |
+| We have a number of assumptions about hospital ventilator management and procurement. If you can provide guidance on operations from the _hospital_ or _supplier_ side, we'd love to have your guidance on this project. Reach out [here](mailto:kevtconnolly@gmail.com)! | If you're good at turning a story into product, can help bring some order to an open-ended volunteer program, and focus on priorities in a situation driven by urgency, we could use your skills. Experience in a fast-paced tech development world is preferred. Reach out [here](mailto:kevtconnolly@gmail.com)! | If you have experience with modern digital product design and love working in fast paced environments, we'd love to have you on board! Reach out [here](mailto:kevinconnoly@gmail.com)! |
+
 ### Teams
 There are two teams: UI and Backend.  Each team has its own section within this organization.  Each team can create repos and manage their projects.
 
