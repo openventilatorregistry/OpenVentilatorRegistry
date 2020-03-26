@@ -1,0 +1,40 @@
+@media only screen and (min-width: 800px) {
+    .verticalContainer {
+        margin-top: calc(45vh - 64px - 175px)
+    }
+  }
+
+.cardContainer {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.cardTitle {
+    padding-bottom: 32px;
+}
+.card {
+    margin: 24px;
+    height: 350px;
+    width: 350px;
+}
+
+.button {
+    width: 250px;
+    margin: 24px;
+    margin-top: 12px !important;
+}
+
+.buttonContainer
+ {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;;
+ }
+
+ .footerText {
+     padding-top: 48px;
+     color: rgba(0, 0, 0, 0.56);
+     font-size: 14px;
+     text-align: center;
+ }
