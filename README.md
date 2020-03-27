@@ -9,7 +9,7 @@ We have registered the domain www.openventilatorregistry.org and will deploy the
 
 ### How to Help
 
-Join our Slack channel to meet others interested in helping and learn about what's currently being worked on.  Look at the open issues, create your own if you have an idea, submit pull requests to the right projects.
+Join our Slack channel *please put the name of the slack channel here* to meet others interested in helping and learn about what's currently being worked on.  Look at the open issues, create your own if you have an idea, submit pull requests to the right projects.
 
 ### Central Communication Channel
 
